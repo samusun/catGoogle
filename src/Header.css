@@ -1,0 +1,114 @@
+.myHeader body {
+  background-color: white;
+}
+
+.myHeader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: whitesmoke;
+  width: 40em;
+}
+
+.myHeader h1 {
+  font-size: 5em;
+}
+
+#searchField {
+  background-color: whitesmoke;
+  width: 89%;
+  border-radius: 8%;
+}
+
+.matches {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  flex-direction: column;
+  width: 90%;
+  border: solid white 1px;
+  background-color: whitesmoke;
+  color: black;
+}
+
+.searches {
+  margin: 0;
+}
+
+.matches :hover {
+  opacity: 60%;
+}
+
+.infoBox {
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  border: solid thin whitesmoke;
+}
+
+.col1 {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.col2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10em;
+  object-fit: cover;
+  width: auto;
+}
+
+#catImage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10em;
+  width: 13em;
+  object-fit: cover;
+  margin: 1%;
+}
+
+.oneCat {
+  margin: 1% 5% 0% 5%;
+}
+
+#myBtn {
+  background-color: #555555; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 100%;
+  margin: 1%;
+}
+
+#myBtn:hover {
+  background-color: whitesmoke;
+  color: #555555;
+}
+
+.col2 p {
+  border: solid whitesmoke 0.3px;
+  margin: 3%;
+  padding: 2%;
+}
+.col2 a {
+  color: rgb(85, 207, 255);
+}

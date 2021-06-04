@@ -1,0 +1,27 @@
+.Form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: left;
+}
+
+.Form label {
+  display: flex;
+  flex-direction: column;
+}
+ErrorMessage {
+  color: red;
+}
+
+#submitBtn {
+  background-color: #00a000; /* Green */
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-top: 3%;
+  width: 100%;
+}

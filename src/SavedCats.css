@@ -1,0 +1,25 @@
+body {
+  color: white;
+}
+
+#mainBtn {
+  background-color: #555555; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 32%;
+  margin-left: 5%;
+}
+
+#mainBtn:hover {
+  background-color: whitesmoke;
+  color: #555555;
+}
+
+#catList {
+  margin-left: 5%;
+}
