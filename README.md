@@ -1,3 +1,12 @@
+# Cat Google!
+Are you thinking about getting a new cat? 
+Use this search engine to browse over 60 different breeds with pictures, their temperament and other useful information.
+
+This is a school project i did during 2 weeks in May 2021. It´s my first React project and I used tools like React Router, useContext, useState, useEffect, Formik and Styled components.
+
+A big thanks to thecatapi.com for providing all the cat data in this project.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
